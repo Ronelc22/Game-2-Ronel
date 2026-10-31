@@ -1,0 +1,6 @@
+{
+  "name": "Mundo Amigos",
+  "description": "Juego 3D de mundo abierto en tercera persona con cámara orbital, chat de voz por proximidad y actividades para amigos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
